@@ -191,7 +191,3 @@ Traders have access to:
 | `RUN_EVEN_WHEN_MARKET_IS_CLOSED` | Trade outside market hours | false |
 | `USE_MANY_MODELS` | Use different LLMs per trader | false |
 | `POLYGON_PLAN` | Market data tier (free/paid/realtime) | free |
-
-## License
-
-MIT
